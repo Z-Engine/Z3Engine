@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\Z3Engine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75A3535D-B154-4864-9171-BBCE57CD33FA}|Z3Engine\\Z3Engine.csproj|c:\\users\\admin\\documents\\github\\z3engine\\z3engine\\source\\globalvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A3535D-B154-4864-9171-BBCE57CD33FA}|Z3Engine\\Z3Engine.csproj|solutionrelative:z3engine\\source\\globalvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A3535D-B154-4864-9171-BBCE57CD33FA}|Z3Engine\\Z3Engine.csproj|c:\\users\\admin\\documents\\github\\z3engine\\z3engine\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A3535D-B154-4864-9171-BBCE57CD33FA}|Z3Engine\\Z3Engine.csproj|solutionrelative:z3engine\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A3535D-B154-4864-9171-BBCE57CD33FA}|Z3Engine\\Z3Engine.csproj|c:\\users\\admin\\documents\\github\\z3engine\\z3engine\\source\\states\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A3535D-B154-4864-9171-BBCE57CD33FA}|Z3Engine\\Z3Engine.csproj|solutionrelative:z3engine\\source\\states\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A3535D-B154-4864-9171-BBCE57CD33FA}|Z3Engine\\Z3Engine.csproj|c:\\users\\admin\\documents\\github\\z3engine\\z3engine\\source\\graphics\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A3535D-B154-4864-9171-BBCE57CD33FA}|Z3Engine\\Z3Engine.csproj|solutionrelative:z3engine\\source\\graphics\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A3535D-B154-4864-9171-BBCE57CD33FA}|Z3Engine\\Z3Engine.csproj|c:\\users\\admin\\documents\\github\\z3engine\\z3engine\\source\\states\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A3535D-B154-4864-9171-BBCE57CD33FA}|Z3Engine\\Z3Engine.csproj|solutionrelative:z3engine\\source\\states\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A3535D-B154-4864-9171-BBCE57CD33FA}|Z3Engine\\Z3Engine.csproj|c:\\users\\admin\\documents\\github\\z3engine\\z3engine\\source\\states\\worldstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A3535D-B154-4864-9171-BBCE57CD33FA}|Z3Engine\\Z3Engine.csproj|solutionrelative:z3engine\\source\\states\\worldstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlobalVariables.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Z3Engine\\Z3Engine\\Source\\GlobalVariables.cs",
+              "RelativeDocumentMoniker": "Z3Engine\\Source\\GlobalVariables.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Z3Engine\\Z3Engine\\Source\\GlobalVariables.cs",
+              "RelativeToolTip": "Z3Engine\\Source\\GlobalVariables.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T20:15:00.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Z3Engine\\Z3Engine\\MainGame.cs",
+              "RelativeDocumentMoniker": "Z3Engine\\MainGame.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Z3Engine\\Z3Engine\\MainGame.cs",
+              "RelativeToolTip": "Z3Engine\\MainGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T20:14:46.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Z3Engine\\Z3Engine\\Source\\States\\State.cs",
+              "RelativeDocumentMoniker": "Z3Engine\\Source\\States\\State.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Z3Engine\\Z3Engine\\Source\\States\\State.cs",
+              "RelativeToolTip": "Z3Engine\\Source\\States\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T20:14:01.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Z3Engine\\Z3Engine\\Source\\Graphics\\Camera.cs",
+              "RelativeDocumentMoniker": "Z3Engine\\Source\\Graphics\\Camera.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Z3Engine\\Z3Engine\\Source\\Graphics\\Camera.cs",
+              "RelativeToolTip": "Z3Engine\\Source\\Graphics\\Camera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T20:13:56.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Z3Engine\\Z3Engine\\Source\\States\\Main.cs",
+              "RelativeDocumentMoniker": "Z3Engine\\Source\\States\\Main.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Z3Engine\\Z3Engine\\Source\\States\\Main.cs",
+              "RelativeToolTip": "Z3Engine\\Source\\States\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T19:45:10.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorldState.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Z3Engine\\Z3Engine\\Source\\States\\WorldState.cs",
+              "RelativeDocumentMoniker": "Z3Engine\\Source\\States\\WorldState.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Z3Engine\\Z3Engine\\Source\\States\\WorldState.cs",
+              "RelativeToolTip": "Z3Engine\\Source\\States\\WorldState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T19:44:28.197Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
