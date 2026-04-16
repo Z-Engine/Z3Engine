@@ -1,3 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Build
 /Z3Engine/bin
+/Z3Engine/obj
+/Z3Engine/Content/bin
+/Z3Engine/Content/obj
+
+# Visual Studio
+.vs/

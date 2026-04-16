@@ -1,3 +1,0 @@
-Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/Admin/Documents/GitHub/Z3Engine/Z3Engine/Content/Assets/Fonts/Arial.png","C:/Users/Admin/Documents/GitHub/Z3Engine/Z3Engine/Content/bin/DesktopGL/Content/Assets/Fonts/Arial.xnb","FontTextureProcessor","SpriteFontContent",15204,91161,0.287917
-"C:/Users/Admin/Documents/GitHub/Z3Engine/Z3Engine/Content/Assets/Images/pixel.png","C:/Users/Admin/Documents/GitHub/Z3Engine/Z3Engine/Content/bin/DesktopGL/Content/Assets/Images/pixel.xnb","TextureProcessor","Texture2DContent",352,89,0.0114102
